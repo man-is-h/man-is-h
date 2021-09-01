@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Windows-00A4EF?logo=Windows&logoColor=ColorName&style=Flat" />
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=man-is-h&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-is-h&layout=compact" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${man-is-h}.${man-is-h})
