@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&logoColor=white&style=Flat" />
 </p>
 
-### Version Control & Development tools used:
+#### Version Control & Development tools used:
 <p>
   <img src="https://img.shields.io/badge/Git-f34f29?logo=Git&logoColor=white&style=Flat" />
   <img src="https://img.shields.io/badge/Github-171515?logo=Github&logoColor=white&style=Flat" />
@@ -24,10 +24,17 @@
   <img src="https://img.shields.io/badge/VS Code-00A4EF?logo=Visual Studio Code&logoColor=white&style=Flat" />
 </p>
 
-### Operating Systems:
+#### Operating Systems:
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=ColorName&style=Flat" />
   <img src="https://img.shields.io/badge/Windows-00A4EF?logo=Windows&logoColor=ColorName&style=Flat" />
+</p>
+
+### Experience:
+<p>
+ <img src="https://img.shields.io/badge/nvidia-000000?logo=Nvidia&logoColor=ColorName&style=Flat" />
+ <br>Intern at Nvidia, Bangalore as an ASIC engineer. Worked with the GPU DV Team on coverage enhancements for various architectures/chips.
+ <br>Nvidia Intern Blog experience: https://blogs.nvidia.com/blog/2021/08/27/internship-virtual-global/
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-is-h&layout=compact" />
