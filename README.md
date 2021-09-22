@@ -33,7 +33,7 @@
 ### Experience:
 <p>
  <img src="https://img.shields.io/badge/nvidia-000000?logo=Nvidia&logoColor=ColorName&style=Flat" />
- <br>Intern at Nvidia, Bangalore as an ASIC engineer. Worked with the GPU DV Team on coverage enhancements for various architectures/chips.
+ <br>Summer Intern at Nvidia, Bangalore, India from May'21 to Jul'21 as an ASIC engineer. Worked with the GPU DV Team on coverage enhancements for various architectures/chips.
  <br>Nvidia Intern Blog experience: https://blogs.nvidia.com/blog/2021/08/27/internship-virtual-global/
 </p>
 
