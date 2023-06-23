@@ -10,10 +10,6 @@
 #### Languages worked with:
 <p>
  <img src="https://img.shields.io/badge/C++-044F88?logo=Cplusplus&logoColor=white&style=Flat" />
- <img src="https://img.shields.io/badge/Python-4B8BBE?logo=Python&logoColor=white&style=Flat" />
- <img src="https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=Flat" />
- <img src="https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white&style=Flat" />
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&logoColor=white&style=Flat" />
 </p>
 
 #### Version Control & Development tools used:
