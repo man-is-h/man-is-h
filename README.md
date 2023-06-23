@@ -10,6 +10,7 @@
 #### Languages worked with:
 <p>
  <img src="https://img.shields.io/badge/C++-044F88?logo=Cplusplus&logoColor=white&style=Flat" />
+ <img src="https://img.shields.io/badge/JAVA-044F88?logo=JAVA&logoColor=white&style=Flat" />
 </p>
 
 #### Version Control & Development tools used:
