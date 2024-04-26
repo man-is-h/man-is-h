@@ -1,6 +1,6 @@
 ## Hi, I’m Manish Agarwal 👋 
 - I’m interested in Software Development/Data Science/ Digital Electronics
-- I’m currently working as a Java Backend Developer.
+- I’m currently working as a Backend Developer.
 
 ### Connect with me: 
 <a href = "https://www.linkedin.com/in/manish1612/"><img src="https://img.shields.io/badge/Linkedin-0077b5?logo=Linkedin&logoColor=ColorName&style=flat" /></a>
