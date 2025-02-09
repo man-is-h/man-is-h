@@ -31,7 +31,7 @@
 - Microsoft Azure
 - Prometheus/ Grafana
 
-#### Also please take a look at this one pager of my corporate life - <a href = "https://drive.google.com/file/d/1WdtevbPTFmkUpYKBwx8nN_ITl8wfnl-0/view?usp=sharing"> Link </a>
+#### One pager of my corporate life - <a href = "https://drive.google.com/file/d/1WdtevbPTFmkUpYKBwx8nN_ITl8wfnl-0/view?usp=sharing"> Link </a>
 
 <!---
 man-is-h/man-is-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
