@@ -1,40 +1,37 @@
 ## Hi, I’m Manish Agarwal 👋 
-- I’m interested in Software Development/Data Science/ Digital Electronics
-- I’m currently working as a Backend Developer.
+- I’m interested in working on anything that is interesting and tech, bonus points if it creates an actual impact
+- I’m currently working as a SWE at Google, ex - InMobi, ex-intern: Nvidia
+- I'm an IIT Guwahati 2022, B.Tech graduate from Electronics & Communication Engineering.
 
 ### Connect with me: 
-<a href = "https://www.linkedin.com/in/manish1612/"><img src="https://img.shields.io/badge/Linkedin-0077b5?logo=Linkedin&logoColor=ColorName&style=flat" /></a>
+<a href = "https://www.linkedin.com/in/manish1612/">LinkedIn</a>
 
 ### Skills
 
 #### Languages worked with:
 <p>
- <img src="https://img.shields.io/badge/C++-044F88?logo=Cplusplus&logoColor=white&style=Flat" />
- <img src="https://img.shields.io/badge/JAVA-044F88?logo=JAVA&logoColor=white&style=Flat" />
+ Java, C++, Golang, Python
 </p>
 
-#### Version Control & Development tools used:
-<p>
-  <img src="https://img.shields.io/badge/Git-f34f29?logo=Git&logoColor=white&style=Flat" />
-  <img src="https://img.shields.io/badge/Github-171515?logo=Github&logoColor=white&style=Flat" />
-  <img src="https://img.shields.io/badge/Perforce-ffffff?logo=Perforce&logoColor=black&style=Flat" />
-  <img src="https://img.shields.io/badge/VS Code-00A4EF?logo=Visual Studio Code&logoColor=white&style=Flat" />
-</p>
+#### Development frameworks used:
+ - SpringBoot (Microservices)
+ - Apache Spark (Batch pipelines)
+ - Apache Flink (Streaming pipelines)
+ - Google Guice
+ - Resilience4j
 
-#### Operating Systems:
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?logo=Linux&logoColor=ColorName&style=Flat" />
-  <img src="https://img.shields.io/badge/Windows-00A4EF?logo=Windows&logoColor=ColorName&style=Flat" />
-</p>
+#### Databases
+- SQL: PostgreSQL
+- NoSQL: Azure CosmosDB
 
-### Experience:
-<p>
- <img src="https://img.shields.io/badge/nvidia-000000?logo=Nvidia&logoColor=ColorName&style=Flat" />
- <br>Summer Intern at Nvidia, Bangalore, India from May'21 to Jul'21 as an ASIC engineer. Worked with the GPU DV Team on coverage enhancements for various architectures/chips.
- <br>Nvidia Intern Blog experience: https://blogs.nvidia.com/blog/2021/08/27/internship-virtual-global/
-</p>
+#### Misc tools:
+- Docker
+- Kubernetes
+- Testcontainers
+- Microsoft Azure
+- Prometheus/ Grafana
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-is-h&layout=compact" />
+#### Also please take a look at this one pager of my corporate life - <a href = "https://drive.google.com/file/d/1WdtevbPTFmkUpYKBwx8nN_ITl8wfnl-0/view?usp=sharing"> Link </a>
 
 <!---
 man-is-h/man-is-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
